@@ -15,5 +15,4 @@ My beginner Python programs and coding practice.
 - 3 bonus challenges completed
 
 ## Goal
-To improve my Python logic and problem-solving skills.# python-practice
-My Python learning journey and practice programs
+To improve my Python logic and problem-solving skills.
